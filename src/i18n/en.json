@@ -1,0 +1,87 @@
+{
+    "website": {
+        "title": "Title",
+        "description": "Description",
+        "author": "will"
+    },
+    "menu": {
+        "home": {
+            "name": "Home"
+        },
+        "bulletin": {
+            "name": "Message"
+        },
+        "hall": {
+            "name": "Games Lobby",
+            "lottery": {
+                "name": "Lottery Game",
+                "bet": {
+                    "name": "Game betting"
+                },
+                "rule": {
+                    "name": "game rules"
+                },
+                "draw": {
+                    "name": "Lottery record"
+                },
+                "record": {
+                    "name": "Betting record"
+                }
+            },
+            "futures": {
+                "name": "Futures investment"
+            }
+        },
+        "funds": {
+            "name": "Funding Record",
+            "car": {
+                "name": "Speed racing"
+            },
+            "ferry": {
+                "name": "Lucky Airship"
+            },
+            "horse": {
+                "name": "Happy horse racing"
+            }
+        },
+        "language": {
+            "name": "Language"
+        },
+        "search": {
+            "name": "Search"
+        }
+    },
+    "message": "Message",
+    "user": {
+        "login": "Login",
+        "logout": "Logout"
+    },
+    "footer": {
+        "copyright": "Copyright © {year} {name}. All rights reserved."
+    },
+    "modal": {
+        "determine": "Determine",
+        "close": "Close"
+    },
+    "toast": {
+        "close": "Close"
+    },
+    "test": {
+        "title": "Test",
+        "menu": {
+            "global": "Global",
+            "fintech": "Fintech",
+            "bet": "Bet"
+        },
+        "button": {
+            "modal": {
+                "open": "Modal(Open)",
+                "close": "Modal(Close)"
+            },
+            "toast": {
+                "open": "Toast(Open)",
+                "close": "Toast(Close)"
+            }
+        }
+    }
+}

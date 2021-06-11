@@ -1,0 +1,30 @@
+{
+    "website": {
+        "title": "標題",
+        "description": "描述",
+        "author": "will"
+    },
+    "menu": {
+        "binary": {
+            "title": "二元期權"
+        },
+        "home": {
+            "title": "首頁"
+        },
+        "record": {
+            "title": "下單紀錄"
+        },
+        "introduction": {
+            "title": "商品介紹"
+        },
+        "logout": {
+            "title": "登出"
+        }
+    },
+    "footer": {
+        "copyright": "Copyright © {year} {name}. 保留一切權利。"
+    },
+    "test": {
+        "title": "測試"
+    }
+}
